@@ -4,7 +4,7 @@ h1, h2, h3, h4, h5, h6{
 #content {
     max-width: 1600px;
     margin:  0 auto;
-    background-color: rgb(11, 7, 7);
+    background-color: rgb(145, 105, 105);
 }
 .msg {
     text-align: center;
@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6{
     height: 725px;
 }
 body {
-    background-color: #c5bdbd; 
+    background-color: #d4caca; 
     text-align: center;
 } 
 header{
@@ -22,11 +22,11 @@ header{
     text-align: left;
 }
 nav a:hover {
-    background-color: black;
+    background-color: rgb(89, 49, 49);
 }
 nav a:hover{
     color: #22223b;
-    background-color: black;
+    background-color: rgb(89, 71, 71);
 }
 main {
     background-color: rgb(196, 196, 194);
@@ -50,11 +50,11 @@ footer p a:hover {
     font-size: 3em;
 }
 .msg {
-    background-color: #a4b180;
+    background-color: #958d30;
     line-height: 2.5em;
 }   
 body {
-    background-color: #7c3939;
+    background-color: #9e6f6f;
     font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
     margin: 15;
@@ -65,13 +65,13 @@ h2 {
 }
 nav a {
     text-decoration: none;
-    color: #eadede;
+    color: #ebebeb;
     text-align: center;
     padding: 35px;
 }                   
 .book, .join {
     background-color: #725e43;
-    color: black;
+    color: rgb(200, 80, 80);
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
@@ -79,8 +79,8 @@ nav a {
 }
 
 .book, .join {
-    background-color: #b7a17f;
-    color: black;
+    background-color: #563c17;
+    color: rgb(216, 197, 197);
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
@@ -95,7 +95,7 @@ main section img {
 }
 .book, .join {
     background-color: #d9c2a3;
-    color: black;
+    color: rgb(238, 235, 235);
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
@@ -103,7 +103,7 @@ main section img {
     border-radius: 10px;
 }
 .card-img {
-    border: 10px solid #d9c2a3;
+    border: 10px solid #eba850;
 }
 main section img {
     box-sizing: border-box;
