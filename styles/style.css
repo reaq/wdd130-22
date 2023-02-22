@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, h6{
 }
 .msg {
     text-align: center;
-    background-color: #8c9647;
+    background-color: #aeb870;
 }
 #background {
     height: 725px;
@@ -18,7 +18,7 @@ body {
     text-align: center;
 } 
 header{
-    background-color: rgb(117, 115, 92);
+    background-color: rgb(114, 112, 81);
     text-align: left;
 }
 nav a:hover {
@@ -29,7 +29,7 @@ nav a:hover{
     background-color: black;
 }
 main {
-    background-color: rgb(213, 213, 194);
+    background-color: rgb(196, 196, 194);
 }
 .icon {
     width: 80px;
@@ -38,4 +38,73 @@ nav a {
     text-align: center;
     color: #f9e6e6;
     text-decoration: none;
+}
+footer p {
+    font-size: 1.5em;
+}   
+footer p a:hover {
+    text-decoration: underline;
+}    
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 3em;
+}
+.msg {
+    background-color: #a4b180;
+    line-height: 2.5em;
+}   
+body {
+    background-color: #7c3939;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 15;
+    padding: 0;
+}
+h2 {
+    margin: 50;
+}
+nav a {
+    text-decoration: none;
+    color: #eadede;
+    text-align: center;
+    padding: 35px;
+}                   
+.book, .join {
+    background-color: #725e43;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+}
+
+.book, .join {
+    background-color: #b7a17f;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.card-img {
+    border: 10px solid #a9865a;
+}
+main section img {
+    box-sizing: border-box;
+}
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
 }
