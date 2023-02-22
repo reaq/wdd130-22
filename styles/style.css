@@ -1,10 +1,9 @@
 h1, h2, h3, h4, h5, h6{
-    color:rgb(39, 37, 37)
+    color:rgb(10, 10, 10)
 }
 #content {
-    max-width: 1600px;
+    max-width: 960px;
     margin:  0 auto;
-    background-color: rgb(145, 105, 105);
 }
 .msg {
     text-align: center;
@@ -18,46 +17,47 @@ body {
     text-align: center;
 } 
 header{
-    background-color: rgb(114, 112, 81);
+    background-color: rgb(89, 89, 89);
     text-align: left;
+   
 }
 nav a:hover {
-    background-color: rgb(89, 49, 49);
+    background-color: rgb(229, 173, 173);
 }
 nav a:hover{
-    color: #22223b;
-    background-color: rgb(89, 71, 71);
+    color: #76768f;
+    background-color: rgb(223, 103, 56);
 }
 main {
-    background-color: rgb(196, 196, 194);
+    background-color: rgb(204, 160, 245);
 }
 .icon {
     width: 80px;
 }
 nav a {
     text-align: center;
-    color: #f9e6e6;
+    color: #ad8383;
     text-decoration: none;
 }
 footer p {
-    font-size: 1.5em;
+    font-size: 1.2em;
 }   
 footer p a:hover {
     text-decoration: underline;
 }    
 .home-title {
-    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
-    font-size: 3em;
+    font-family: ' Helvetica', 'Bradley Hand', sans-serif;
+    font-size: 2em;
 }
 .msg {
     background-color: #958d30;
-    line-height: 2.5em;
+    line-height: 1.5em;
 }   
 body {
     background-color: #9e6f6f;
     font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
-    margin: 15;
+    margin: 0;
     padding: 0;
 }
 h2 {
@@ -99,8 +99,8 @@ main section img {
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
-    margin-top: 60px;
-    border-radius: 10px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 .card-img {
     border: 10px solid #eba850;
