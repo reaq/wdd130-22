@@ -2,41 +2,40 @@ h1, h2, h3, h4, h5, h6{
     color:rgb(39, 37, 37)
 }
 #content {
-    max-width: 200px;
+    max-width: 1600px;
     margin:  0 auto;
     background-color: rgb(15, 13, 13);
 }
 .msg {
     text-align: center;
+    background-color: #8c9647;
 }
 #background {
     height: 725px;
 }
 body {
-    background-color: #fffc5d; 
+    background-color: #b6a7a7; 
+    text-align: center;
 } 
 header{
     background-color: rgb(117, 115, 92);
+    text-align: left;
+}
+nav a:hover {
+    background-color: black;
 }
 nav a:hover{
-    color: #5d5d60;
+    color: #22223b;
+    background-color: black;
 }
 main {
-    background-color: rgb(205, 207, 177);
+    background-color: rgb(213, 213, 194);
 }
 .icon {
     width: 80px;
 }
-nav a:hover {
+nav a {
     text-align: center;
-    color: #d9d0d0;
+    color: #f9e6e6;
     text-decoration: none;
-}  
-footer p {
-    font-size: 1.2em;
-}   
-footer p a:hover {
-    text-decoration: underline;
-}    
-
-                    
+}
