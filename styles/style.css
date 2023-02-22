@@ -1,0 +1,42 @@
+h1, h2, h3, h4, h5, h6{
+    color:rgb(39, 37, 37)
+}
+#content {
+    max-width: 200px;
+    margin:  0 auto;
+    background-color: rgb(15, 13, 13);
+}
+.msg {
+    text-align: center;
+}
+#background {
+    height: 725px;
+}
+body {
+    background-color: #fffc5d; 
+} 
+header{
+    background-color: rgb(117, 115, 92);
+}
+nav a:hover{
+    color: #5d5d60;
+}
+main {
+    background-color: rgb(205, 207, 177);
+}
+.icon {
+    width: 80px;
+}
+nav a:hover {
+    text-align: center;
+    color: #d9d0d0;
+    text-decoration: none;
+}  
+footer p {
+    font-size: 1.2em;
+}   
+footer p a:hover {
+    text-decoration: underline;
+}    
+
+                    
